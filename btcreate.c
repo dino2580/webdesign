@@ -157,7 +157,7 @@ int check_bst(node *root)
         return 0;
 
     return 1;
-}
+}\
  int main()
  {
     node * root;
